@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./cybersecurity-banner.png" alt="Cybersecurity Banner" width="100%">
+</p>
 # Hi, I'm Istiyak Ahmed 👋
 
 ### Aspiring Security Analyst | Web Penetration Testing | Python
