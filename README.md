@@ -1,30 +1,174 @@
-<h1 align="center">Hi 👋, I'm Istiyak Ahmed</h1>
-<h3 align="center">Cybersecurity Student | Aspiring Security Analyst | Python Developer</h3>
+# Hi, I'm Istiyak Ahmed 👋
 
-- 🔭 I’m currently working on **Phishing Link Analyzer**
+### Aspiring Security Analyst | Web Penetration Testing | Python
 
-- 🌱 I’m currently learning **Web Security | OWASP Top 10 | Bash Scripting | OpenVAS**
+<!-- BANNER PLACEHOLDER
+After uploading your cyber-themed banner to your GitHub repository,
+replace this comment with:
+![Cybersecurity Banner](YOUR_BANNER_IMAGE_URL)
+-->
 
-- 👯 I’m looking to collaborate on **Open-source cybersecurity tools and beginner-friendly security projects**
+I'm a Cybersecurity student passionate about **web penetration testing, ethical hacking, and vulnerability research**. I enjoy exploring web security, building Python-based security tools, and improving my practical cybersecurity skills.
 
-- 🤝 I’m looking for help with **Web application security, vulnerability research and Python automation**
+- 🔐 Focused on web application security and penetration testing
+- 🛠️ Practicing reconnaissance, vulnerability discovery, and security testing
+- 🐍 Building Python-based cybersecurity tools
+- 🎯 Working towards becoming a skilled Security Analyst
+- 📚 Continuously learning through hands-on labs and security research
 
-- 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
+---
 
-- 📝 I regularly write articles on [Cybersecurity, Web Security and Ethical Hacking](Cybersecurity, Web Security and Ethical Hacking)
+## 🧠 Core Skills
 
-- 💬 Ask me about **Python, Linux, Networking, OWASP Top 10 and Web Security basics**
+- Web Application Security
+- Web Penetration Testing
+- Reconnaissance and Enumeration
+- Vulnerability Assessment
+- Bug Bounty Research
+- Python Scripting and Automation
+- Data Structures and Algorithms (DSA)
 
-- 📫 How to reach me **istiyak2919@gmail.com**
+---
 
-- ⚡ Fun fact **I love breaking things ethically and learning how to secure them!**
+## 💻 Programming & Web Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/istiyakahmed24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="istiyakahmed24" height="30" width="40" /></a>
-<a href="https://instagram.com/sudoxploit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudoxploit" height="30" width="40" /></a>
-<a href="https://medium.com/@sudoxploit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sudoxploit" height="30" width="40" /></a>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🔎 Reconnaissance & Enumeration
+
+<p>
+  <img src="https://img.shields.io/badge/Katana-202020?style=for-the-badge" alt="Katana"/>
+  <img src="https://img.shields.io/badge/Subfinder-202020?style=for-the-badge" alt="Subfinder"/>
+  <img src="https://img.shields.io/badge/Amass-202020?style=for-the-badge" alt="Amass"/>
+  <img src="https://img.shields.io/badge/httpx-202020?style=for-the-badge" alt="httpx"/>
+  <img src="https://img.shields.io/badge/Gau-202020?style=for-the-badge" alt="Gau"/>
+  <img src="https://img.shields.io/badge/Waybackurls-202020?style=for-the-badge" alt="Waybackurls"/>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" alt="Nmap"/>
+</p>
+
+## 🛡️ Web Security & Vulnerability Testing
+
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Nuclei-202020?style=for-the-badge" alt="Nuclei"/>
+  <img src="https://img.shields.io/badge/SecretFinder-202020?style=for-the-badge" alt="SecretFinder"/>
+  <img src="https://img.shields.io/badge/Nuclei_Secrets_Templates-202020?style=for-the-badge" alt="Nuclei Secrets Templates"/>
+</p>
+
+## 🔍 Content & Parameter Discovery
+
+<p>
+  <img src="https://img.shields.io/badge/ParamSpider-202020?style=for-the-badge" alt="ParamSpider"/>
+  <img src="https://img.shields.io/badge/Gobuster-202020?style=for-the-badge" alt="Gobuster"/>
+  <img src="https://img.shields.io/badge/DirBuster-202020?style=for-the-badge" alt="DirBuster"/>
+</p>
+
+## 🔑 Password Security
+
+<p>
+  <img src="https://img.shields.io/badge/John_the_Ripper-202020?style=for-the-badge" alt="John the Ripper"/>
+</p>
+
+## 🐧 Operating Systems & Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux CLI"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🔎 Phishing Link Analyzer
+
+A Python-based cybersecurity project designed to analyze URLs and help identify potential phishing threats.
+
+**Key Features**
+
+- 🔍 URL analysis and phishing risk assessment
+- 🛡️ VirusTotal API integration for threat checks
+- 🗄️ SQLite database for storing scan history
+- ⚙️ FastAPI backend
+- 🌐 HTML-based user interface
+- 📊 Detailed scan reports
+
+**Tech Stack:** Python · FastAPI · SQLite · HTML · VirusTotal API
+
+🔗 **[View Phishing Link Analyzer on GitHub](https://github.com/istiyak2124/Phishing-Link-Analyzer)**
+
+---
+
+## 🎯 Cybersecurity Practice & Learning
+
+I continuously improve my web security knowledge through practical labs, security tools, and independent research.
+
+### Areas of Interest
+
+- OWASP Top 10
+- SQL Injection (SQLi)
+- Cross-Site Scripting (XSS)
+- Broken Access Control and IDOR
+- Authentication Vulnerabilities
+- Security Misconfigurations
+- Reconnaissance and Vulnerability Discovery
+
+### Hands-on Practice
+
+- 🔐 Solved 20+ labs on PortSwigger Web Security Academy
+- 🛠️ Practicing web penetration testing and reconnaissance
+- 🎯 Exploring bug bounty methodologies and vulnerability research
+- 📖 Publishing cybersecurity-related articles
+
+**Learning Resources**
+
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+
+---
+
+## 🎓 Education
+
+**BSc in Cyber Security**
+
+---
+
+## 📊 GitHub Languages
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiyak2124&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages on GitHub"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/istiyak2124">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:istiyak2919@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://medium.com/@sudoxploit">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Learn. Build. Secure.</b>
+</p>
